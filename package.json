@@ -4,7 +4,7 @@
   "description": "Blazing fast low level http server",
   "main": "index.js",
   "dependencies": {
-    "turbo-net": "^1.4.0"
+    "turbo-net": "d4tocchini/turbo-net"
   },
   "devDependencies": {
     "autocannon": "^2.4.1",
